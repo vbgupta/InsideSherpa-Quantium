@@ -22,4 +22,7 @@ Extend your analysis from Task 1 to help you identify benchmark stores that allo
 * Pandas, Numpy, Matplotlib, Seaborn
 
 ## Task 1 Findings
+### Lifestages of customers and their purchase behavior
 ![alt text](https://github.com/vbgupta/InsideSherpa-Quantium/blob/master/Virtual%20Internship%20Quantium/img/Lifestages-and-purchases.png?raw=true)
+
+### 
