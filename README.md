@@ -25,4 +25,17 @@ Extend your analysis from Task 1 to help you identify benchmark stores that allo
 ### Lifestages of customers and their purchase behavior
 ![alt text](https://github.com/vbgupta/InsideSherpa-Quantium/blob/master/Virtual%20Internship%20Quantium/img/Lifestages-and-purchases.png?raw=true)
 
-### 
+### Customer Types
+![atl text](https://github.com/vbgupta/InsideSherpa-Quantium/blob/master/Virtual%20Internship%20Quantium/img/Premium-customer.png?raw=true)
+
+## Task 2 Findings
+
+### Control Stores vs New Config Stores
+![alt text](https://github.com/vbgupta/InsideSherpa-Quantium/blob/master/Virtual%20Internship%20Quantium/img/Control-vs-New-Stores.png?raw=true)
+
+### Store Comparison Old vs New
+![alt text](https://github.com/vbgupta/InsideSherpa-Quantium/blob/master/Virtual%20Internship%20Quantium/img/Config-Store-77.png?raw=true)
+![alt text](https://github.com/vbgupta/InsideSherpa-Quantium/blob/master/Virtual%20Internship%20Quantium/img/Config-Store-86.png?raw=true)
+![alt text](https://github.com/vbgupta/InsideSherpa-Quantium/blob/master/Virtual%20Internship%20Quantium/img/Config-Store-88.png?raw=true)
+
+
